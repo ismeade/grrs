@@ -1,6 +1,7 @@
 [package]
 name = "grrs"
 version = "0.1.0"
+edition = "2021"
 authors = ["Liyang <ismeade99@sina.com>"]
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"
